@@ -6,7 +6,7 @@ featuredImage: ./node-red.png
 
 # Node-RED for IoT-Mobile Developers
 
-This is the base configuration that comes pre-installed for the IoT-Mobile kit. This configuration helps to get up-and-running quickly with Node-RED by standardizing the configuration and plug-ins that are installed.
+This is a base configuration for IoT development to help to get up-and-running quickly with Node-RED by standardizing the configuration and plug-ins that are installed.
 
 ## Quick Start
 
