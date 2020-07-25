@@ -4,7 +4,7 @@ weight: 1
 featuredImage: ./node-red.png
 ---
 
-# Node-RED for IoT-Mobile Developers
+# Node-RED for IoT Developers
 
 This is a base configuration for IoT development to help to get up-and-running quickly with Node-RED by standardizing the configuration and plug-ins that are installed.
 
