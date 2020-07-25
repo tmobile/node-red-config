@@ -14,7 +14,7 @@ This is a base configuration for IoT development to help to get up-and-running q
 
 ```
 cd ~/.node-red
-git clone git@gitlab.com:tmobile/iot-mobile/node-red/config.git tmp 
+git clone git@github.com:tmobile/node-red-config.git tmp 
 mv tmp/.git ./ 
 rm -rf tmp
 git reset --hard
