@@ -271,5 +271,8 @@ module.exports = {
             // To enable the Projects feature, set this value to true
             enabled: true
         }
-    }
+    },
+
+    // Base machine learning models directory.
+    modelsDir: process.env.HOME + "/models"
 }
