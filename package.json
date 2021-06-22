@@ -15,6 +15,7 @@
         "@tmus/node-red-contrib-differences": "^1.1.0",
         "@tmus/node-red-contrib-object-to-array": "git+https://github.com/tmobile/node-red-contrib-object-to-array.git",
         "@tmus/node-red-contrib-summarizer": "git+https://github.com/tmobile/node-red-contrib-summarizer.git",
+        "@tmus/node-red-contrib-tm-mjpg-server": "file:../node-red-contrib-tm-mjpg-server",
         "@tmus/node-red-contrib-yolo-object-detection": "git+https://github.com/tmobile/node-red-contrib-yolo-object-detection.git",
         "node-red-contrib-browser-utils": "0.0.9",
         "node-red-contrib-camerapi": "0.0.39",
